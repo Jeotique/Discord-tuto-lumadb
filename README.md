@@ -3,4 +3,4 @@
 
 Besed on the module https://www.npmjs.com/package/luma-db
 
-Video : https://www.youtube.com/channel/UCO-fgm3ww5s9j2dhcBGVpmw
+Video : https://www.youtube.com/watch?v=98OSEjbHGiM
